@@ -1,9 +1,130 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.1">
   <diagram name="Page-1" id="_9WZBSOoh5Ao9FR7-OhR">
-    <mxGraphModel>
+    <mxGraphModel dx="1019" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="kCPWIG9WOm7pYWU5WLKl-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kCPWIG9WOm7pYWU5WLKl-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kCPWIG9WOm7pYWU5WLKl-2" value="MULAI" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="60" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kCPWIG9WOm7pYWU5WLKl-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kCPWIG9WOm7pYWU5WLKl-12" target="kCPWIG9WOm7pYWU5WLKl-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kCPWIG9WOm7pYWU5WLKl-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kCPWIG9WOm7pYWU5WLKl-5" target="kCPWIG9WOm7pYWU5WLKl-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kCPWIG9WOm7pYWU5WLKl-5" value="INPUT NAMA&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;SEKTOR EKONOMI&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="181" width="280" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="kCPWIG9WOm7pYWU5WLKl-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kCPWIG9WOm7pYWU5WLKl-10" target="kCPWIG9WOm7pYWU5WLKl-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kCPWIG9WOm7pYWU5WLKl-7" value="YA" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kCPWIG9WOm7pYWU5WLKl-6">
+          <mxGeometry x="-0.1289" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kCPWIG9WOm7pYWU5WLKl-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="kCPWIG9WOm7pYWU5WLKl-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="929.8" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kCPWIG9WOm7pYWU5WLKl-9" value="TIDAK" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kCPWIG9WOm7pYWU5WLKl-8">
+          <mxGeometry x="-0.1463" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kCPWIG9WOm7pYWU5WLKl-10" value="DATA VALID?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="870" width="130" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="kCPWIG9WOm7pYWU5WLKl-11" value="SELESAI" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1400" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kCPWIG9WOm7pYWU5WLKl-12" value="APLIKASI MELAKUKAN PROSES VALIDASI DATA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="760" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCPWIG9WOm7pYWU5WLKl-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kCPWIG9WOm7pYWU5WLKl-17" target="kCPWIG9WOm7pYWU5WLKl-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="640" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="640" y="1100" />
+              <mxPoint x="640" y="635" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kCPWIG9WOm7pYWU5WLKl-14" value="TIDAK" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kCPWIG9WOm7pYWU5WLKl-13">
+          <mxGeometry x="-0.7694" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kCPWIG9WOm7pYWU5WLKl-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kCPWIG9WOm7pYWU5WLKl-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="1200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kCPWIG9WOm7pYWU5WLKl-16" value="YA" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kCPWIG9WOm7pYWU5WLKl-15">
+          <mxGeometry x="-0.1986" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kCPWIG9WOm7pYWU5WLKl-17" value="SIMPAN DATA?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="1040" width="130" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="kCPWIG9WOm7pYWU5WLKl-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kCPWIG9WOm7pYWU5WLKl-19" target="kCPWIG9WOm7pYWU5WLKl-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kCPWIG9WOm7pYWU5WLKl-19" value="PROSES SIMPAN DATA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1200" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCPWIG9WOm7pYWU5WLKl-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kCPWIG9WOm7pYWU5WLKl-21" target="kCPWIG9WOm7pYWU5WLKl-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kCPWIG9WOm7pYWU5WLKl-21" value="TAMPILKAN DAFTAR&lt;div&gt;SEKTOR EKONOMI&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1300" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCPWIG9WOm7pYWU5WLKl-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kCPWIG9WOm7pYWU5WLKl-23" target="kCPWIG9WOm7pYWU5WLKl-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kCPWIG9WOm7pYWU5WLKl-23" value="CARI DATA SEKTOR EKONOMI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="310" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCPWIG9WOm7pYWU5WLKl-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kCPWIG9WOm7pYWU5WLKl-28" target="kCPWIG9WOm7pYWU5WLKl-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kCPWIG9WOm7pYWU5WLKl-32" value="TIDAK" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kCPWIG9WOm7pYWU5WLKl-24">
+          <mxGeometry x="-0.25" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kCPWIG9WOm7pYWU5WLKl-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kCPWIG9WOm7pYWU5WLKl-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="224.50000000000006" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="640" y="460" />
+              <mxPoint x="640" y="225" />
+            </Array>
+            <mxPoint x="465" y="459" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kCPWIG9WOm7pYWU5WLKl-27" value="YA" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kCPWIG9WOm7pYWU5WLKl-26">
+          <mxGeometry x="-0.7115" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kCPWIG9WOm7pYWU5WLKl-28" value="DATA&amp;nbsp;&lt;div&gt;DITEMUKAN?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="400" width="130" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="kCPWIG9WOm7pYWU5WLKl-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kCPWIG9WOm7pYWU5WLKl-30" target="kCPWIG9WOm7pYWU5WLKl-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kCPWIG9WOm7pYWU5WLKl-30" value="MASUKKAN :&lt;br&gt;NAMA SEKTOR EKONOMI" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="560" width="330" height="150" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
