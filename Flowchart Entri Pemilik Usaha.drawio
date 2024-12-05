@@ -1,9 +1,66 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.7.17">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.1">
   <diagram name="Page-1" id="s6RYuwPW1rAyxglArAj3">
-    <mxGraphModel>
+    <mxGraphModel dx="753" dy="403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="EH_pXnjPwOsGgoBDvtnK-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EH_pXnjPwOsGgoBDvtnK-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EH_pXnjPwOsGgoBDvtnK-2" value="MULAI LOGIN" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="60" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EH_pXnjPwOsGgoBDvtnK-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EH_pXnjPwOsGgoBDvtnK-13" target="EH_pXnjPwOsGgoBDvtnK-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EH_pXnjPwOsGgoBDvtnK-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EH_pXnjPwOsGgoBDvtnK-6" target="EH_pXnjPwOsGgoBDvtnK-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="211" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="211" />
+              <mxPoint x="560" y="436" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EH_pXnjPwOsGgoBDvtnK-5" value="TIDAK" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EH_pXnjPwOsGgoBDvtnK-4">
+          <mxGeometry x="-0.1309" y="2" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EH_pXnjPwOsGgoBDvtnK-6" value="MASUKKAN USERNAME DAN PASSWORD" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="292.5" y="181" width="215" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EH_pXnjPwOsGgoBDvtnK-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EH_pXnjPwOsGgoBDvtnK-9" target="EH_pXnjPwOsGgoBDvtnK-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EH_pXnjPwOsGgoBDvtnK-8" value="YA" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EH_pXnjPwOsGgoBDvtnK-7">
+          <mxGeometry x="-0.3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EH_pXnjPwOsGgoBDvtnK-9" value="LOGIN&amp;nbsp;&lt;div&gt;DITERIMA?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="375.81" width="130" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="EH_pXnjPwOsGgoBDvtnK-10" value="LOGIN SELESAI" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="640.31" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EH_pXnjPwOsGgoBDvtnK-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EH_pXnjPwOsGgoBDvtnK-12" target="EH_pXnjPwOsGgoBDvtnK-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EH_pXnjPwOsGgoBDvtnK-12" value="USER BERADA DI HALAMAN DASHBOARD" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="535.81" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EH_pXnjPwOsGgoBDvtnK-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EH_pXnjPwOsGgoBDvtnK-6" target="EH_pXnjPwOsGgoBDvtnK-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="241" as="sourcePoint" />
+            <mxPoint x="400" y="376" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EH_pXnjPwOsGgoBDvtnK-13" value="PERIKSA APAKAH USERNAME ADA DAN PASSWORD COCOK" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="280" width="220" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
